@@ -1,0 +1,30 @@
+.navbar-brand{
+color: green;
+}
+.display-1{
+font-size:3em;
+background-color:green;
+color: aliceblue;
+line-height: 10;
+}
+.homeland{
+font-size: 10px;
+}
+.button_class {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  
+}
+.hh{
+padding:20;
+text-align: center;
+text-transform: capitalize;
+
+}
+.para{
+padding: 2% 10% 0% 10%;
+border: 200px;
+text-align: justify;
+
+}
